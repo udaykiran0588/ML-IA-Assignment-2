@@ -1,0 +1,7 @@
+Task,Dataset,Metric,Value
+Classification - Random Forest,Social_Network_Ads.csv,Accuracy,0.9
+Boosting - AdaBoost Regressor,insurance_pre.csv,MAE,3899.3546931326464
+Boosting - AdaBoost Regressor,insurance_pre.csv,RMSE,4925.6136739681015
+Boosting - AdaBoost Regressor,insurance_pre.csv,R2,0.84372387566679
+Clustering - K-Means,Mall_Customers.csv,Best k,5.0
+Clustering - K-Means,Mall_Customers.csv,Silhouette Score,0.5546571631111091
